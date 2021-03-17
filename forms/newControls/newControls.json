@@ -14,37 +14,55 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "inptEnterName.json"
+        "crdBirthday.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "btnSubmitName.json"
+        "lgToDo.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "lblDisplayName.json"
+        "bcInvitees.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "lblInvitees.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "swNewSwitch.json"
       ]
     }
   ],
   "class": "",
-  "designHeight": 0,
-  "designWidth": 0,
+  "designHeight": 320,
+  "designWidth": 460,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
-  "id": "membership",
+  "height": 320,
+  "id": "newControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -57,11 +75,9 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
   "top": "0",
-  "width": 320
+  "width": 460
 }
